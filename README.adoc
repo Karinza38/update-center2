@@ -1,4 +1,4 @@
-= Jenkins Update Center Generator
+Jenkins Update Center Generator
 
 This project is primarily used to generate the jenkins.io update center layout.
 
